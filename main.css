@@ -10,21 +10,6 @@ header, footer{
   width: 100%;
 }
 
-header{
-  height: 10vh;
-}
-
-footer{
-  height: 05vh;
-  bottom: 0;
-}
-
-footer h2{
-  position: absolute;
-  
-
-}
-
 .site-title {
   color: bisque;
 
