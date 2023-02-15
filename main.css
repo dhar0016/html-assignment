@@ -3,14 +3,36 @@ body{
   font-size: 18px;
 }
 
-header, footer {
-  background-color: aquamarine;
 
+header, footer{
+  position: relative;
+  background-color: #369;
+  width: 100%;
+}
+
+header{
+  height: 10vh;
+}
+
+footer{
+  height: 05vh;
+  bottom: 0;
+}
+
+footer h2{
+  position: absolute;
+  
+
+}
+
+.site-title {
+  color: bisque;
 
 }
 
 #my.jpg {
   box-shadow: 0px 0px 2px 1px blueviolet;
+  
 
 }
 
