@@ -2,23 +2,18 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
 }
-
-
 header, footer{
-  position: relative;
   background-color: #369;
-  width: 100%;
 }
 
 .site-title {
-  color: bisque;
+  color: rgb(252, 206, 150);
 
 }
 
 #my-image {
   box-shadow: 0px 0px 2px 1px black;
   
-
 }
 
 ul {
@@ -26,18 +21,18 @@ ul {
 }
 
 li:nth-child(odd) {
-  background-color: brown;
+  background-color: rgb(64, 240, 134);
 }
 
 a:link {
   text-decoration: none;
-  background-color: #2c2f2c;
-  border: #895214;
+  background-color: #47fd47;
+  border: #faaf59;
 }
 
-.notes-link:hover {
+.notes-link:hover{
   cursor: pointer;
-  color: red;
+  color:rgb(255, 255, 43);
 
 }
 
